@@ -9,7 +9,7 @@ export function Details(){
     
     return(
         <div className={Styles.detailsContainer}>
-            <img width={400} className={`${Styles.imgStadium} ${Styles.col}`} src={eq.stadium} alt={eq['stadium name']} />
+            <img width={400} height={225} className={`${Styles.imgStadium} ${Styles.col}`} src={eq.stadium} alt={eq['stadium name']} />
             <div className={`${Styles.col}`}>
                 <img className={Styles.imgLogo} src={eq.images.urlLogo} alt={eq.fullName} />
                 <h1 className={Styles.strong}>{eq.fullName}</h1>
