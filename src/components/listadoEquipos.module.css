@@ -1,0 +1,29 @@
+.containerUlLink{
+    display: grid;
+}
+.listadoGrid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 144px);
+    gap: 40px;
+    padding: 40px;
+    justify-content: center;
+}
+
+.link{
+    font-size: 1.5rem;
+    border: 1px solid #ffffff;
+    justify-self: center;
+    background: #000000;
+    width: 100%;
+    color: #ffff;
+    padding: 0.7rem;
+    text-align: center;
+    position: fixed;
+    bottom: 0%;
+}
+
+@media (max-width: 520px){
+    .listadoGrid{
+        grid-template-columns: 100%
+    }
+}

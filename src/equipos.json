@@ -1,0 +1,590 @@
+[
+  {
+      "id": "608",
+      "fullName": "River Plate",
+      "foundation": "25/05/1901",
+      "nickName": "Millonario",
+      "stadium name": "Antonio Vespucio Liberti",
+      "stadium nickname": "Monumental",
+      "color": "rojo y blanco",
+      "classic rival": "Boca Juniors",
+      "stadium": "https://media.tycsports.com/files/2022/03/08/399567/estadio-monumental_1440x810_wmk.jpg?v=1",
+      "imageUrlSizes": {
+        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/608.png",
+        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/608.png",
+        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/608.png",
+        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/608.png"
+      },
+      "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/608.png",
+      "images": {
+        "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/608.png"
+      }
+  },
+  {
+    "id": "1313",
+    "fullName": "Belgrano",
+    "foundation": "19/03/1905",
+    "nickName": "Los Piratas",
+    "stadium name": "Julio Cesar Villagra",
+    "stadium nickname": "Gigante De Alberdi",
+    "color": "celeste y negro",
+    "classic rival": "Talleres",
+    "stadium":"https://i.ytimg.com/vi/NjZa5jGxdWw/maxresdefault.jpg",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/1313.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1313.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/1313.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/1313.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1313.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/1313.png"
+    }
+  },
+  {      
+    "id": "2549",
+    "fullName": "San Lorenzo",
+    "foundation": "01/04/1908",
+    "nickName": "El Ciclon",
+    "stadium name": "Pedro Bidegain",
+    "stadium nickname": "Nuevo Gasometro",
+    "color": "azul y rojo",
+    "classic rival": "Huracan",
+    "stadium":"https://i.pinimg.com/736x/95/fe/2e/95fe2eeb18c4e32fcb793fbf9b120470.jpg", 
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/2549.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2549.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/2549.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/2549.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2549.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/2549.png"
+    }
+  },
+  {
+    "id": "2473",
+    "fullName": "Lanús",
+    "foundation": "03/01/1915",
+    "nickName": "El Granate",
+    "stadium name": "Néstor Díaz Pérez",
+    "stadium nickname": "La Fortaleza",
+    "color": "granate y oro",
+    "classic rival": "Banfield",
+    "stadium":"https://fotos.perfil.com/2020/11/12/1211estadiolanus-1075716.jpg",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/2473.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2473.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/2473.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/2473.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2473.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/2473.png"
+    }
+  },
+  {
+    "id": "927",
+    "fullName": "Estudiantes La Plata",
+    "foundation": "04/08/1905",
+    "nickName": "El Pincha",
+    "stadium name": "Jorge Luis Hirschi",
+    "stadium nickname": "El Uno",
+    "color": "blanco y rojo",
+    "classic rival": "Gimnasia y Esgrima La Plata",
+    "stadium":"https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/media/articles/28005/edelp-20estadio-20estudiantes-20de-20la-20plata.jpg?itok=RdMz0BOm",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/927.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/927.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/927.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/927.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/927.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/927.png"
+    }
+  },
+  {
+    "id": "8625",
+    "fullName": "Defensa y Justicia",
+    "foundation": "20/03/1935",
+    "nickName": "El Halcon",
+    "stadium name": "Norberto Tito Tomaghello",
+    "stadium nickname": "Estadio Tomaghello",
+    "color": "verde y amarillo",
+    "classic rival": "Lanus",
+    "stadium":"https://www.estadiosdeargentina.com.ar/wp-content/uploads/2014/05/estadio-defensa-justicia1-640x480.jpg",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/8625.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/8625.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/8625.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/8625.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/8625.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/8625.png"
+    }
+  },
+  {
+    "id": "540",
+    "fullName": "Boca Juniors",
+    "foundation": "03/04/1905",
+    "nickName": "Xeneizes",
+    "stadium name": "Alberto J. Armando",
+    "stadium nickname": "La Bombonera",
+    "color": "azul y oro",
+    "classic rival": "River",
+    "stadium":"https://media.tycsports.com/files/2023/02/16/535189/foto-bombonera_1440x810_wmk.webp?v=7",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/540.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/540.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/540.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/540.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/540.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/540.png"
+    }
+  },
+  {
+    "id": "745",
+    "fullName": "Rosario Central",
+    "foundation": "24/12/1889",
+    "nickName": "Los Canallas",
+    "stadium name": "Dr. Lisandro de la Torre",
+    "stadium nickname": "Gigante De Arroyito",
+    "color": "azul y amarillo",
+    "classic rival": "Newell's Old Boys",
+    "stadium":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/dc/1b/1b/estadio-gigante-de-arroyito.jpg?w=1200&h=-1&s=1",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/745.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/745.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/745.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/745.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/745.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/745.png"
+    }
+  },
+  {
+    "id": "2834",
+    "fullName": "Godoy Cruz",
+    "foundation": "21/06/1921",
+    "nickName": "El Tomba",
+    "stadium name": "Feliciano Gambarte",
+    "stadium nickname": "El Coloso del Parque",
+    "color": "azul y blanco",
+    "classic rival": "San Martín de San Juan",
+    "stadium":"https://www.ole.com.ar/images/2021/04/11/ehK4bU325_1200x630__1.jpg",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/2834.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2834.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/2834.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/2834.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2834.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/2834.png"
+    }
+  },
+  {
+    "id": "846",
+    "fullName": "Argentinos Juniors",
+    "foundation": "14/08/1904",
+    "nickName": "Los Bichos Colorados",
+    "stadium name": "Diego Armando Maradona",
+    "stadium nickname": "La Paternal",
+    "color": "rojo y blanco",
+    "classic rival": "All Boys",
+    "stadium":"https://www.estadiosdeargentina.com.ar/wp-content/uploads/2014/01/estadio-argentinos-juniors3-740x545.jpg",   
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/846.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/846.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/846.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/846.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/846.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/846.png"
+    }
+  },
+  {
+    "id": "4671",
+    "fullName": "Atlético Tucumán",
+    "foundation": "27/09/1902",
+    "nickName": "El Decano",
+    "stadium name": "José Fierro",
+    "stadium nickname": "El Monumental",
+    "color": "azul y blanco",
+    "classic rival": "San Martin De Tucuman",
+    "stadium":"https://www.clubatleticotucuman.com.ar//img/elestadio.jpg",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/4671.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/4671.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/4671.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/4671.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/4671.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/4671.png"
+    }
+  },
+  {
+    "id": "986",
+    "fullName": "Racing Club",
+    "foundation": "20/03/1903",
+    "nickName": "La Academia",
+    "stadium name": "Presidente Juan Domingo Perón",
+    "stadium nickname": "El Cilindro",
+    "color": "celeste y blanco",
+    "classic rival": "Independiente",
+    "stadium":"https://fotos.perfil.com/2020/10/30/3110estadioracingdrone-1069268.jpg",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/986.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/986.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/986.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/986.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/986.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/986.png"
+    }
+  },
+  {
+    "id": "1071",
+    "fullName": "Talleres",
+    "foundation": "01/05/1913",
+    "nickName": "El Matador",
+    "stadium name": "Raúl Conti",
+    "stadium nickname": "La Boutique",
+    "color": "azul y blanco",
+    "classic rival": "Belgrano",
+    "stadium":"https://i.pinimg.com/1200x/c7/c2/80/c7c280fb13edacbeecc0003fabd25693.jpg",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/1071.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1071.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/1071.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/1071.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1071.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/1071.png"
+    }
+  },
+  {
+    "id": "1095",
+    "fullName": "Newell's Old Boys",
+    "foundation": "03/11/1903",
+    "nickName": "La Lepra",
+    "stadium name": "Marcelo Bielsa",
+    "stadium nickname": "El Coloso del Parque",
+    "color": "rojo y negro",
+    "classic rival": "Rosario Central",
+    "stadium":"https://www.cadena3.com/admin/playerswf/fotos/ARCHI_933523.jpg",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/1095.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1095.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/1095.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/1095.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1095.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/1095.png"
+    }
+  },
+  {
+    "id": "9280",
+    "fullName": "Barracas Central",
+    "foundation": "05/04/1904",
+    "nickName": "El Barraqueño",
+    "stadium name": "Claudio Chiqui Tapia",
+    "stadium nickname": "Chiqui Tapia",
+    "color": "rojo y blanco",
+    "classic rival": "Defensores De Belgrano",
+    "stadium":"https://www.estadiosdeargentina.com.ar/wp-content/uploads/2014/10/cancha-barracas-central5-740x493.png",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/9280.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/9280.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/9280.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/9280.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/9280.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/9280.png"
+    }
+  },
+  {
+    "id": "2580",
+    "fullName": "Tigre",
+    "foundation": "03/08/1902",
+    "nickName": "El Matador",
+    "stadium name": "José Dellagiovanna",
+    "stadium nickname": "El Coliseo de Victoria",
+    "color": "azul y rojo",
+    "classic rival": "San Martín de San Juan",
+    "stadium":"https://www.estadiosdeargentina.com.ar/wp-content/uploads/2014/03/estadio-tigre-victoria-640x360.jpg",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/2580.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2580.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/2580.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/2580.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2580.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/2580.png"
+    }
+  },
+  {
+    "id": "3579",
+    "fullName": "Platense",
+    "foundation": "25/05/1905",
+    "nickName": "El Calamar",
+    "stadium name": "Vicente López",
+    "stadium nickname": "La Catedral",
+    "color": "marron y blanco",
+    "classic rival": "All Boys",
+    "stadium":"https://cap.org.ar/wp-content/uploads/2023/02/FECHA-1-PLATENSE-vs-NOB-28-1-23-GONZALO-COLINI-36-scaled.jpg",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/3579.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/3579.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/3579.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/3579.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/3579.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/3579.png"
+    }
+  },
+  {
+    "id": "3638",
+    "fullName": "Instituto",
+    "foundation": "08/08/1918",
+    "nickName": "La Gloria",
+    "stadium name": "Juan Domingo Perón",
+    "stadium nickname": "El Monumental De Alta Cordoba",
+    "color": "rojo y blanco",
+    "classic rival": "Racing De Nueva Italia",
+    "stadium":"https://www.estadiosdeargentina.com.ar/wp-content/uploads/2014/01/estadio-instituto-cordoba01-1.jpg",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/3638.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/3638.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/3638.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/3638.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/3638.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/3638.png"
+    }
+  },
+  {
+    "id": "8629",
+    "fullName": "Sarmiento",
+    "foundation": "01/02/1911",
+    "nickName": "El Verde",
+    "stadium name": "Eva Perón",
+    "stadium nickname": "Fortín de Las Morochas",
+    "color": "verde y blanco",
+    "classic rival": "-",
+    "stadium":"https://www.ole.com.ar/images/2018/05/27/HJoiJauyX_1200x630.jpg",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/8629.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/8629.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/8629.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/8629.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/8629.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/8629.png"
+    }
+  },
+  {
+    "id": "6374",
+    "fullName": "Unión",
+    "foundation": "15/04/1907",
+    "nickName": "Tatengues",
+    "stadium name": "15 de Abril",
+    "stadium nickname": "El 15",
+    "color": "rojo y blanco",
+    "classic rival": "Colon",
+    "stadium":"https://media.airedesantafe.com.ar/p/ff4b804d4d9020cc549d3aae4c3b18f6/adjuntos/268/imagenes/003/736/0003736593/1200x675/smart/imagepng.png",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/6374.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/6374.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/6374.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/6374.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/6374.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/6374.png"
+    }
+  },
+  {
+    "id": "2451",
+    "fullName": "Banfield",
+    "foundation": "21/01/1896",
+    "nickName": "El Taladro",
+    "stadium name": "Florencio Sola",
+    "stadium nickname": "El Lencho",
+    "color": "verde y blanco",
+    "classic rival": "Lanus",
+    "stadium":"https://launion.com.ar//img/publicaciones/2022/10/06//alta/154152.jpg",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/2451.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2451.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/2451.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/2451.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2451.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/2451.png"
+    }
+  },
+  {
+    "id": "1392",
+    "fullName": "Gimnasia La Plata",
+    "foundation": "03/05/1887",
+    "nickName": "El Lobo o Los Triperos",
+    "stadium name": "Juan Carmelo Zerillo",
+    "stadium nickname": "El Bosque",
+    "color": "azul y blanco",
+    "classic rival": "Estudiantes",
+    "stadium":"https://fotos.perfil.com/2020/10/29/3010canchagimnasiayesgrimalaplata-1068660.jpg",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/1392.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1392.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/1392.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/1392.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1392.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/1392.png"
+    }
+  },
+  {
+    "id": "10752",
+    "fullName": "Central Córdoba de Santiago del Estero",
+    "foundation": "03/04/1919",
+    "nickName": "El Ferriviario",
+    "stadium name": "Alfredo Terrera",
+    "stadium nickname": "-",
+    "color": "negro y blanco",
+    "classic rival": "Mitre",
+    "stadium":"https://i.ytimg.com/vi/r9KN3eWcqvs/maxresdefault.jpg",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/10752.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/10752.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/10752.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/10752.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/10752.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/10752.png"
+    }
+  },
+  {
+    "id": "1243",
+    "fullName": "Independiente",
+    "foundation": "01/01/1905",
+    "nickName": "El Diablo o El Rojo",
+    "stadium name": "Libertadores de América",
+    "stadium nickname": "El Libertador",
+    "color": "rojo y blanco",
+    "classic rival": "Racing",
+    "stadium":"https://www.rionegro.com.ar/wp-content/uploads/2021/11/avellaneda-libertadores.jpg",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/1243.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1243.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/1243.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/1243.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1243.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/1243.png"
+    }
+  },
+  {
+    "id": "570",
+    "fullName": "Vélez Sarsfield",
+    "foundation": "01/01/1910",
+    "nickName": "El Fortin",
+    "stadium name": "José Amalfitani",
+    "stadium nickname": "El Teatro De Liniers",
+    "color": "azul y blanco",
+    "classic rival": "Ferro Carril Oeste",
+    "stadium":"https://velezsarsfield.com.ar/img/contenido/club/cd/estadio-01.jpg",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/570.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/570.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/570.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/570.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/570.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/570.png"
+    }
+  },
+  {
+    "id": "2578",
+    "fullName": "Huracán",
+    "foundation": "01/11/1908",
+    "nickName": "El Globo",
+    "stadium name": "Tomás Adolfo Ducó",
+    "stadium nickname": "El Palacio o El Ducó",
+    "color": "blanco y rojo",
+    "classic rival": "San Lorenzo",
+    "stadium":"https://media.tycsports.com/files/2022/01/05/377929/huracan-tomas-adolfo-duco-cancha-estadio_1440x810_wmk.jpg?v=1",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/2578.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2578.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/2578.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/2578.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2578.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/2578.png"
+    }
+  },
+  {
+    "id": "1027",
+    "fullName": "Colón",
+    "foundation": "05/05/1905",
+    "nickName": "El Sabalero",
+    "stadium name": "Brigadier General Estanislao López",
+    "stadium nickname": "El Cementerio De Los Elefantes",
+    "color": "negro y rojo",
+    "classic rival": "Union",
+    "stadium":"https://media.airedesantafe.com.ar/p/37fac02aa306d1e06c28a5d81851268d/adjuntos/268/imagenes/003/736/0003736550/1200x675/smart/imagepng.png",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/1027.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1027.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/1027.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/1027.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1027.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/1027.png"
+    }
+  },
+  {
+    "id": "2577",
+    "fullName": "Arsenal de Sarandí",
+    "foundation": "11/01/1957",
+    "nickName": "El Arse",
+    "stadium name": "Julio H. Grondona",
+    "stadium nickname": "El Viaducto",
+    "color": "celeste y rojo",
+    "classic rival": "-",
+    "stadium":"https://i.ytimg.com/vi/ze0XU1RrV0k/maxresdefault.jpg",
+    "imageUrlSizes": {
+      "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/2577.png",
+      "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2577.png",
+      "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/2577.png",
+      "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/2577.png"
+    },
+    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2577.png",
+    "images": {
+      "urlLogo": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/2577.png"
+    }
+  }
+]

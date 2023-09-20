@@ -1,0 +1,41 @@
+.detailsContainer{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.col{
+    max-width: 600px;
+    margin: 1.5%;
+}
+
+.strong{
+    color: #ffffff;
+}
+
+.p{
+    color: chartreuse;
+}
+
+.imgStadium{
+    border-radius: 15px; 
+    height: 400px;
+}
+
+.imgLogo{
+    width: 80px;
+}
+
+.link{
+    font-size: 1.5rem;
+    border: 1px solid #ffffff;
+    justify-self: center;
+    background: #000000;
+    width: 100%;
+    color: #ffff;
+    padding: 0.7rem;
+    text-align: center;
+    position: fixed;
+    bottom: 0%;
+}

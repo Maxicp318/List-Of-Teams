@@ -1,0 +1,14 @@
+.containerPageMain{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.imgAfa{
+    width: 35vw;
+    height: 70vh;
+}
+
+.linkAfa:hover{
+    opacity: 0.6;
+}
