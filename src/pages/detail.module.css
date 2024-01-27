@@ -8,6 +8,7 @@
 .col{
     max-width: 400px;
     margin: 1.5%;
+    height: fit-content;
 }
 
 .strong{
@@ -20,7 +21,7 @@
 
 .imgStadium{
     border-radius: 15px; 
-    height: auto;
+    align-self: center;
 }
 
 .imgLogo{
